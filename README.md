@@ -1,1 +1,1 @@
-Application de gestion de la faculté des sciences
+Gestion de la faculté des sciences
